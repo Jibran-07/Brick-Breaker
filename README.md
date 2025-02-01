@@ -1,0 +1,1 @@
+Brick Breaker is a Java-based arcade game where players break bricks using a paddle and a bouncing ball. The game consists of three levels, with increasing ball speed at each stage, making it progressively more challenging.
